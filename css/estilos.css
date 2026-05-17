@@ -4,7 +4,7 @@
     max-width: 2000px;
     height: auto;
     padding: 2rem;
-    border: 0.5rem, solid rgba(4, 0, 255, 0.514);
+    border: 0.4rem solid rgba(4, 0, 255, 0.514);
     margin: 0;
     text-align: center;
     font-family: "Arvo", serif;
@@ -29,9 +29,9 @@ footer, header, nav{
     box-sizing: border-box;
     width: 100%;
     height: auto;
-    padding: 0.2 rem;
-    border: 0.2rem, solid rgba(4, 0, 255, 0.514);
-    margin: 0 rem;
+    padding: 0.2rem;
+    border: 0.4rem solid rgba(4, 0, 255, 0.514);
+    margin: 0;
     background-color: rgb(86, 86, 255);
 }
 
@@ -49,7 +49,7 @@ a:active{
 }
 img{
     height:auto;
-    width: 50;
+    width: 50%;
     margin: auto;
     display: block;
 }

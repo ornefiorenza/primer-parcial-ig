@@ -1,3 +1,6 @@
 Ornella Fiorenza
 Primer Parcial - Informática General 
 Artes Multimediales - UNA
+
+Declaracion de uso de IA
+Utilicé Gemini. Empece pidiendole que genere un archivo de texto sin formato con el texto organizado por pàgina. Una vez dividido por página, lo ubiqué semánticamente como me pareció. A medida que iba avanzando, me trababa un poco y le preguntaba por qué no me estaba saliendo lo que yo quería, que me muestre el error y me lo explique. No le propteé de la manera mas específica porque no lo necesitaba, fue mas por falta de práctica que por otra cosa. La IA me dio la explicacion con varias soluciones y decidi adaptar una de ellas a mis necesidades. En CSS es donde mas la necesité pues me resultan complicadas las proporciones y unidades de medida. Una vez terminado, use el validador de HTML y CSS para verificar. Cambié ciertos errores/tipeos que saltaron. Ya terminado todo, le mande todos los archivos junto con la consigna para que chequee si todos los requisitos estaban hechos. Me aconsejo algunos cambios y me hizo un checklist de los requisitos minimos. Fue de muchisima ayuda para destrabarme en donde no podía encontrar el error y me facilitó mucho la solucion sin decirmela directamente. Entendí y comprendí. 
