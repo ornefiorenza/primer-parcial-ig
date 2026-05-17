@@ -2,16 +2,18 @@ Casey Reas
 Código, sistemas y arte generativo contemporáneo
 
 
-
+QUOTE
 “Una obra puede ser definida como un sistema y ejecutada en múltiples formas.” — Casey Reas
 
-Arte generativo y pensamiento computacional
 
+
+BIOGRAFÍA ¿Quién es Casey Reas?
 Casey Reas es un artista, programador y educador reconocido por su trabajo en el desarrollo del arte generativo. Su práctica se basa en la creación de sistemas que, a partir de reglas definidas, producen imágenes y comportamientos visuales autónomos. Este enfoque desplaza la idea tradicional de obra terminada hacia procesos abiertos y en constante evolución.
 
 Su trabajo se centra en la relación entre instrucciones, ejecución y resultado. A través del uso del código, construye estructuras que permiten explorar variaciones infinitas dentro de un mismo sistema. De este modo, cada ejecución puede dar lugar a una experiencia visual distinta.
 
 Además de su producción artística, ha tenido un rol clave en la difusión del pensamiento computacional dentro del arte contemporáneo. Su enfoque promueve la comprensión del código como un medio expresivo, accesible y profundamente creativo.
+
 
 Trayectoria y contribuciones
 
@@ -52,15 +54,19 @@ En la práctica de Reas, el artista asume el rol de programador. En lugar de int
 
 Este cambio de rol implica una forma distinta de pensar el proceso creativo. La autoría se desplaza hacia el diseño del sistema, mientras que la ejecución introduce elementos de autonomía y sorpresa en la obra.
 
-Influencia en el arte contemporáneo
-
-La obra de Casey Reas ha tenido un impacto significativo en el desarrollo del arte digital y generativo. Su enfoque ha contribuido a legitimar el uso del código como un medio artístico en el contexto contemporáneo.
-
-Su influencia puede observarse en numerosos artistas y proyectos que adoptan el pensamiento basado en sistemas y algoritmos. A través de su trabajo, se ha ampliado la comprensión de las posibilidades del arte en relación con la tecnología.
 
 
+page 1
+    Arte generativo y pensamiento computacional
+    La obra de Casey Reas ha tenido un impacto significativo en el desarrollo del arte digital y generativo. Su enfoque ha contribuido a legitimar el uso del código como un medio artístico en el contexto contemporáneo.
 
-Para contactarse escribir a casey@artedigital.com
+    Article
+        Influencia en el arte contemporáneo
+        Su influencia puede observarse en numerosos artistas y proyectos que adoptan el pensamiento basado en sistemas y algoritmos. A través de su trabajo, se ha ampliado la comprensión de las posibilidades del arte en relación con la tecnología.
+
+
+adress
+ Para contactarse escribir a casey@artedigital.com
 
 ---
 
